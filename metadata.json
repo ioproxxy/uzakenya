@@ -1,0 +1,8 @@
+
+{
+  "name": "Uza Kenya",
+  "description": "Kenya's premier immersive business directory. Navigate Nairobi's streets, buildings, and shops to find products in real-time.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
